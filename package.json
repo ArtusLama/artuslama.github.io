@@ -8,6 +8,8 @@
     "dev:host": "nuxt dev --host",
     "deploy": "npm run generate && gh-pages --dotfiles -d .output/public",
     "generate": "nuxt generate",
+    "viewoutput": "npx serve .output/public",
+    "generate:view": "npm run generate && npm run viewoutput",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
