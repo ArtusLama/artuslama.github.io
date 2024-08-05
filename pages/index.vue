@@ -7,12 +7,11 @@
     </div>
 
 </template>
-<script>
+<script setup lang="ts">
 
-    useSeoMeta({
+
+   useHead({
         title: 'ArtusDev | Portfolio',
-        description: 'I am a passionate developer and designer.',
-        keywords: 'home, page, website, coder, developer, programmer, designer, ui, ux',
     });
 
 </script>
