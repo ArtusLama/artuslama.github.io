@@ -11,7 +11,7 @@
             <p class="text-center text-normalText"><UtilGlowText>This page isn't availible yet!</UtilGlowText><br>If you have any questions or just want to contact me don't hesitate:</p>
             
             <div class="mt-2 flex gap-10 items-center justify-center">
-                <p class="flex items-center justify-center gap-2"><Icon name="bxl:discord-alt" class="size-7 mt-[1.5px]"/>ArtusDev</p>
+                <p class="flex items-center justify-center gap-2"><Icon name="bxl:discord-alt" class="size-7 mt-[1.5px]"/>artus_dev</p>
                 <a class="flex items-center justify-center gap-2" href="https://github.com/ArtusLama" target="_blank"><Icon name="bxl:github" class="size-7"/>ArtusLama</a>
             </div>
         </div>
