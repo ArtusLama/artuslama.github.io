@@ -1,1 +1,0 @@
-import{_ as t,v as o,E as r,t as s}from"./SP3OG5wK.js";const n={},c={class:"bg-bgColor w-screen min-h-[200vh] overflow-hidden text-normalText"};function a(e,l){return s(),o("div",c,[r(e.$slots,"default")])}const d=t(n,[["render",a]]);export{d as default};
