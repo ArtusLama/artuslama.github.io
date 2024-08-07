@@ -57,6 +57,7 @@
 
     onMounted(() => {
         window.addEventListener('scroll', onScroll);
+        onScroll(); // Initial check
     });
     
 
