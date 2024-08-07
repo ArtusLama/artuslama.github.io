@@ -1,7 +1,7 @@
 <template>
     <div class="
         bg-bgColor
-        w-screen min-h-[200vh]
+        w-screen min-h-screen
         overflow-hidden
         text-normalText
     ">
