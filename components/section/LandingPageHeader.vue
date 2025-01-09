@@ -1,13 +1,15 @@
 <template>
     <div class="flex flex-col items-center min-h-screen">
 
-        <div class="flex flex-col items-center pt-[30vh]" id="sec1">
+        <div class="w-[10vw] aspect-square -translate-y-[200%] rounded-full absolute shadow-[0_0_100vw_25vw] shadow-white/10"></div>
+
+        <div class="flex flex-col items-center pt-[30vh]">
             <UtilBadge>
                 <div class="relative">
                     <div class="absolute animate-[ping_1500ms_ease-out_infinite] inset-0 bg-primary/85 w-3 aspect-square rounded-full"></div>
                     <UtilGlow><div class="bg-primary/85 w-3 aspect-square rounded-full"></div></UtilGlow>
                 </div>
-                <div class="-mt-[1px]"><UtilGlow on-hover>Available for hiring</UtilGlow></div>
+                <div class="-mt-[1px]"><UtilGlow on-hover>Available for work</UtilGlow></div>
             </UtilBadge>
 
             <div class="mt-4 text-5xl text-lightText font-bold tracking-[-1px] text-center">

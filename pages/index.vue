@@ -1,10 +1,12 @@
 <template>
 
     <div>
-        <UiScrollSectionNav :section-ids="['sec1', 'workinprogress-sec']"/>
-        <SectionLandingPageHeader/>
+        <!--<SectionLandingPageHeader id="header-sec"/>-->
         <!--<UiSectionTitle keyword="About Me" title="My Life in a Nutshell"/>-->
-        <UtilWorkInProgress class="mt-20"/>
+        <!--<SectionSkills id="skills-sec"/>-->
+        <UtilWorkInProgress id="workinprogress-sec" class="mt-20"/>
+
+        <!--<UiScrollSectionNav :section-ids="['header-sec', 'skills-sec', 'workinprogress-sec']"/>-->
     </div>
 
 </template>
