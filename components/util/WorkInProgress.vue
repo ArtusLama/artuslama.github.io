@@ -8,7 +8,7 @@
         </div>
 
         <div class="w-1/3 flex flex-col items-center">
-            <p class="text-center text-normalText"><UtilGlow>This page isn't availible yet!</UtilGlow><br>If you have any questions or just want to contact me don't hesitate:</p>
+            <p class="text-center text-normalText"><UtilGlow>This page isn't available yet!</UtilGlow><br>If you have any questions or just want to contact me don't hesitate:</p>
             
             <div class="mt-8 flex gap-10 items-center justify-center">
                 <UiButton>
