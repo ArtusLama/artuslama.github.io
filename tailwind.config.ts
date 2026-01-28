@@ -22,12 +22,13 @@ export default <Partial<Config>>{
 
         // 🚧 - NOT FINAL - 🚧
         lightText: "#F2F2F2",
-        normalText: "#F2F2F2", 
+        normalText: "#F2F2F2CC", 
         // - - - - - - - - - -
       },
     },
     fontFamily: {
       sans: ['"Plus Jakarta Sans"', ...fontFamily.sans],
+      handwriting: ['"Permanent Marker"', ...fontFamily.sans],
     }
   }
 }
